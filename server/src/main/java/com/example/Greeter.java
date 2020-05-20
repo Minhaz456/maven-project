@@ -10,7 +10,7 @@ public class Greeter {
    */
   public Greeter() {
 	  
-	  system.out.println(" ");
+	system.out.println("hi");
 
   } 
   /** 
