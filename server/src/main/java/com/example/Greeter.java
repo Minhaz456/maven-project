@@ -9,6 +9,8 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
+	  
+	  system.out.println("hey");
 
   } 
   /** 
